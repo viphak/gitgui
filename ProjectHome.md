@@ -1,0 +1,1 @@
+Tired of those command prompts and shells. For version control, I prefer a nice pretty interface to git (planning on making it extensible to svn) http://www.gitgui.com (coming soon)
